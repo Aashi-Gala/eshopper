@@ -1,0 +1,28 @@
+body{
+	/*font-family: 'Overpass', sans-serif;*/
+}
+.top_continer{
+	padding-top: 2%;
+	padding-bottom: 2%;
+	border-bottom:1px solid #eee;
+	margin-bottom: 2%;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.carousel-control.left , .carousel-control.right{
+	background-image: none;
+}
+.carousel-inner  .col-md-6:first-child{
+	padding-top: 8%;
+	padding-left: 10%;
+}
+.footer{
+	background: #eee;
+}
+.contact{
+	padding: 1%;
+	background:#333;
+	color:#fff
+}
